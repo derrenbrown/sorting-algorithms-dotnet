@@ -1,0 +1,10 @@
+E:\GitHub\SortingAlgorithmsDotNet\SortingAlgorithmsDotNetTest\bin\Debug\SortingAlgorithmsDotNetTest.dll
+E:\GitHub\SortingAlgorithmsDotNet\SortingAlgorithmsDotNetTest\bin\Debug\SortingAlgorithmsDotNetTest.pdb
+E:\GitHub\SortingAlgorithmsDotNet\SortingAlgorithmsDotNetTest\bin\Debug\SortingAlgorithmsDotNetTest.xml
+E:\GitHub\SortingAlgorithmsDotNet\SortingAlgorithmsDotNetTest\bin\Debug\SortingAlgorithmsDotNet.dll
+E:\GitHub\SortingAlgorithmsDotNet\SortingAlgorithmsDotNetTest\bin\Debug\SortingAlgorithmsDotNet.pdb
+E:\GitHub\SortingAlgorithmsDotNet\SortingAlgorithmsDotNetTest\bin\Debug\SortingAlgorithmsDotNet.xml
+E:\GitHub\SortingAlgorithmsDotNet\SortingAlgorithmsDotNetTest\obj\Debug\ResolveAssemblyReference.cache
+E:\GitHub\SortingAlgorithmsDotNet\SortingAlgorithmsDotNetTest\obj\Debug\SortingAlgorithmsDotNetTest.dll
+E:\GitHub\SortingAlgorithmsDotNet\SortingAlgorithmsDotNetTest\obj\Debug\SortingAlgorithmsDotNetTest.xml
+E:\GitHub\SortingAlgorithmsDotNet\SortingAlgorithmsDotNetTest\obj\Debug\SortingAlgorithmsDotNetTest.pdb
