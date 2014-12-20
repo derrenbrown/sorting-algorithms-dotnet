@@ -13,3 +13,6 @@ The algorithms implemented are:
 - Quick Sort [O(n log(n))].
 - Selection Sort [O(n^2)].
 
+New line
+
+hahaha
